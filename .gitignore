@@ -1,0 +1,5 @@
+.svn/
+.git/
+target/
+bin/
+logs/
